@@ -14,8 +14,7 @@ This project demonstrates the use of Logistic Regression to predict passenger su
 - [Results](#results)
 - [How to Run](#how-to-run)
 - [Requirements](#requirements)
-- [File Structure](#file-structure)
-- [Author](#author)
+
 
 ---
 
