@@ -33,7 +33,7 @@ The goal of this project is to build a Logistic Regression model to classify whe
 
 ## Dataset
 
-The project uses the popular Titanic dataset from Kaggle:
+The project uses the popular Titanic dataset from [Kaggle](https://www.kaggle.com/c/titanic/data):
 
 - `train.csv`: Contains passenger data with the target variable `Survived`.
 - `test.csv`: Contains passenger data without survival information for prediction.
