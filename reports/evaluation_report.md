@@ -32,10 +32,6 @@
 [0, 0, 0, 0, 1, 0, 1, 0, 1, 0]
 
 
----
-
-## Legend
-
 - `0` = Did Not Survive  
 - `1` = Survived
 
